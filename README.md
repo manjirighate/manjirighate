@@ -1,6 +1,6 @@
 # Hi, I'm Manjiri Ghate 👋
 
-**Data Analyst & AI/ML Engineer** · B.E. in Artificial Intelligence & Data Science '26 · Pune, India
+**Data Analyst & AI/ML Engineer** · B.E. in Artificial Intelligence & Data Science '26 · Maharashtra, India
 
 I build machine learning models and analytics dashboards that turn raw data into decisions — with a focus on healthcare and e-commerce.
 
