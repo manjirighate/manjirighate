@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Manjiri Ghate 👋
 
-<!--
-**manjirighate/manjirighate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst & AI/ML Engineer** · B.E. in Artificial Intelligence & Data Science '26 · Pune, India
 
-Here are some ideas to get you started:
+I build machine learning models and analytics dashboards that turn raw data into decisions — with a focus on healthcare and e-commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Featured Projects
+
+**[LifeStyleDiseasesApp](https://github.com/manjirighate/LifeStyleDiseasesApp)**
+Django web app that predicts risk of diabetes, hypertension, heart disease and obesity using LightGBM, with doctor recommendations. *Published in IJIRT, 2026.*
+
+**[Lenskart Eyewear Analytics](https://github.com/manjirighate/lenskart-eyewear-analytics)**
+End-to-end e-commerce analytics project — SQL data modelling in MySQL, interactive Power BI dashboards, and business insights on sales and customer behaviour.
+
+## 🛠️ Tools & Skills
+
+`Python` `SQL` `Power BI` `LightGBM` `Django` `Pandas` `scikit-learn` `MySQL` `Excel`
+
+## 📫 Reach me
+
+- Email: manjireeghate156@gmail.com
+- LinkedIn: [linkedin.com/in/manjiri-ghate](https://www.linkedin.com/in/manjiri-ghate)
